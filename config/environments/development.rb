@@ -76,4 +76,5 @@ Rails.application.configure do
   
   #Blocked host対策
   config.hosts << "d1192955557541f1ae12cc56d0610f48.vfs.cloud9.ap-northeast-1.amazonaws.com"
+  
 end
